@@ -1,0 +1,19 @@
+{
+  "name": "d3-gib",
+  "version": "1.0.0",
+  "description": "",
+  "main": "d3-gib.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "webpack": "^3.10.0",
+    "webpack-dev-server": "^2.9.7"
+  },
+  "dependencies": {
+    "d3": "^4.12.0"
+  }
+}
